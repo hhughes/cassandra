@@ -74,3 +74,4 @@
 -XX:GCLogFileSize=10M
 
 # The newline in the end of file is intentional
+-Xss640k
